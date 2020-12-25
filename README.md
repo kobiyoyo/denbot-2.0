@@ -1,24 +1,75 @@
-# README
+# DenBot
+<br />
+<p align="center">
+  <h1 align="center">DenBot 2.0</h1>
+ 
+  <p align="center">
+    A Ruby on Rails Application
+    <br />
+    <br />
+    ·
+    <a href="https://github.com/kobiyoyo/DenBot/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/kobiyoyo/DenBot/issues">Request Feature</a>
+  </p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+</p>
 
-Things you may want to cover:
 
-* Ruby version
+## Description
+This is a slack bot that performs basic arithmetic operations .
 
-* System dependencies
+### Commands
+- add 3+3 
 
-* Configuration
+## Built With
+- Ruby 
+- Slack-Ruby-Bot
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+## Getting started
 
-* Services (job queues, cache servers, search engines, etc.)
+> To get started with the app, clone the repo and then install the needed gems:
 
-* Deployment instructions
 
-* ...
+```
+$ git clone 
+
+$ bundle install
+
+$ SLACK_API_TOKEN="Your api key here" rails s
+
+
+```
+
+
+## Authors
+
+👤 **Adama Chubiyojo Desmond**
+
+-  [Github](https://github.com/kobiyoyo)
+-  [Twitter](https://twitter.com/_kobiyoyo)
+-  [Linkedin](https://www.linkedin.com/in/chubiyojo-adama/)
+-  [Email](mailto:adamachubi@gmail.com)
+
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kobiyoyo/DenBot/issues).
+
+1. Fork it (https://github.com/kobiyoyo/DenBot/fork)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add')
+4. Push to the branch (git push origin feature/[feature-name])
+5. Create a new Pull Request
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
