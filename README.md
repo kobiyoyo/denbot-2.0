@@ -1,4 +1,3 @@
-# DenBot
 <br />
 <p align="center">
   <h1 align="center">DenBot 2.0</h1>
@@ -55,21 +54,3 @@ $ SLACK_API_TOKEN="Your api key here" rails s
 
 
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kobiyoyo/DenBot/issues).
-
-1. Fork it (https://github.com/kobiyoyo/DenBot/fork)
-2. Create your working branch (git checkout -b [choose-a-name])
-3. Commit your changes (git commit -am 'what this commit will fix/add')
-4. Push to the branch (git push origin feature/[feature-name])
-5. Create a new Pull Request
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
