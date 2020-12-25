@@ -9,7 +9,7 @@ class AdditionBot < SlackRubyBot::Bot
     title 'Addition Bot'
     desc 'This bot lets you perform simple arithmetic'
 
-    command 'calculate' do
+    command 'add' do
       desc 'Add numbers'
     end
     end
