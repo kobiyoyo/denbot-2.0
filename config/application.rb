@@ -31,9 +31,9 @@ module DenBot
 
     # Don't generate system test files.
     config.generators.system_tests = nil
-    config.eager_load_paths << Rails.root.join('bot/bot.rb')
+    # config.eager_load_paths << Rails.root.join('bot/bot.rb')
 
-    #autoloads bot folder during development
-    config.autoload_paths << Rails.root.join('bot/bot.rb')
+    # #autoloads bot folder during development
+    # config.autoload_paths << Rails.root.join('bot/bot.rb')
   end
 end

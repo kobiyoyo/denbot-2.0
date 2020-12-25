@@ -1,5 +1,4 @@
 require 'slack-ruby-bot'
-SlackRubyBot::Client.logger.level = Logger::WARN
 
 class AdditionsController < SlackRubyBot::MVC::Controller::Base
   

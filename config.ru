@@ -5,7 +5,7 @@ require_relative './bot/bot.rb'
 
 Thread.abort_on_exception = true
 Thread.new do
-  Bot.run
+  AdditionBot.run
 end
 
 run Rails.application
