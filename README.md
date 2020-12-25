@@ -16,7 +16,7 @@
 
 
 ## Description
-This is a slack bot that performs basic arithmetic operations .
+This is a simple slack chat bot that adds two numbers.
 
 ### Commands
 - add 3+3 
